@@ -1,0 +1,1 @@
+Developed a Library Management System using Python, Tkinter, and MySQL to automate library operations. The application manages books, members, issue/return records, and fines through a user-friendly GUI. It supports CRUD operations, database integration, and efficient record management, reducing manual effort and errors.
